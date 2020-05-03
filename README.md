@@ -1,7 +1,7 @@
 # Increase Spring Batch Performance
 
 This repository is aimed to demonstrate spring batch performance optimization through different features:
-* Multi-Threaded Steps [Medium Article]()
+* Multi-Threaded Steps [Medium Article](https://medium.com/@YounessBout/increase-spring-batch-performance-through-multithreading-b513ca90aeb5)
 * Asynchronous Processing
 * Parallel Steps
 * Remote Chunking
